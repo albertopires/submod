@@ -1,0 +1,6 @@
+[submodule "misc"]
+	path = misc
+	url = git@bitbucket.org:albertopires/misc.git
+[submodule "deleteme"]
+	path = deleteme
+	url = git@github.com:albertopires/deleteme.git
